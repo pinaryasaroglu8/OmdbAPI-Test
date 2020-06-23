@@ -6,5 +6,5 @@ http://www.omdbapi.com adresindeki public API'ı kullanarak aşağıdaki case'i 
 2) Bu ID ile "By ID or Title" başlığı altındaki metotlarda film araması yapınız.
 
 Bu işlermleri Java dilinde Rest Assured kütüphanesini kullandığın bir Maven projesinde yapmalısın.
-Gelen response içinde datanin title, year, released alanlarının gelip gelmediğini ve HTTP status'ını kontrol etmen yeterli olacaktır.
+Gelen response içinde datanın, title, year, released alanlarının gelip gelmediğini ve HTTP status'ını kontrol etmen yeterli olacaktır.
 
