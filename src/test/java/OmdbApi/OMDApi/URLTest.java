@@ -1,4 +1,4 @@
-package Cucumber.OmdbAPI;
+package OmdbApi.OMDApi;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

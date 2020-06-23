@@ -1,4 +1,4 @@
-package Cucumber.OmdbAPI;
+package OmdbApi.OMDApi;
 
 /**
  * Hello world!
